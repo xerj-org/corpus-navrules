@@ -1,0 +1,7 @@
+# Navigation Rules Rule 16 — Action by Give-way Vessel
+# Source: COMDTINST M16672.2D, Navigation Rules: International-Inland (USCG Navigation Center distribution, https://www.navcen.uscg.gov/pdf/navRules/NavRules.pdf)
+
+RULE 16 
+Action by Give-way Vessel 
+Every vessel which is directed to keep out of the way of another vessel 
+shall, so far as possible, take early and substantial action to keep well clear.

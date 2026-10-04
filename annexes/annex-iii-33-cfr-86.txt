@@ -1,0 +1,328 @@
+# Navigation Rules Annex Iii — 33 CFR 86
+# Source: COMDTINST M16672.2D, Navigation Rules: International-Inland (USCG Navigation Center distribution, https://www.navcen.uscg.gov/pdf/navRules/NavRules.pdf)
+
+ANNEX III 
+33 CFR 86 
+Technical Details of Sound Signal Appliances 
+ 
+SUBPART A— WHISTLES 
+§ 86.01 Frequencies and range of audibility 
+The fundamental frequency of the signal shall lie within the range 70-525 
+Hz. The range of audibility of the signal from a whistle shall be determined 
+by those frequencies, which may include the fundamental and/or one or 
+more higher frequencies, which lie within the frequency ranges and provide 
+the sound pressure levels specified in § 86.05. 
+ 
+§ 86.03 Limits of fundamental frequencies 
+To ensure a wide variety of whistle characteristics, the fundamental 
+frequency of a whistle shall be between the following limits: 
+(a) 70-200 Hz, for a vessel 200 meters or more in length; 
+(b) 130-350 Hz, for a vessel 75 meters but less than 200 meters in length; 
+(c) 250-525 Hz, for a vessel less than 75 meters in length. 
+ 153 
+—INTERNATIONAL— 
+ANNEX III—Continued 
+ 
+(c) Sound signal intensity and range of audibility 
+A whistle fitted in a vessel shall provide, in the direction of 
+maximum intensity of the whistle and at a distance of 1 meter from it, a 
+sound pressure level in at least one 1/3-octave band within the range of 
+frequencies 180-700 Hz (+/- 1%) for a vessel of 20 meters or more in length, 
+or 180-2100Hz (+/- 1%) for a vessel of less than 20 meters in length, of not 
+less than the appropriate figure given in the table below. 
+ 
+Length of vessel in 
+meters 
+1/3-octave band level 
+at 1 meter in dB 
+referred to 2x10-5 
+N/m2
+Audibility range in nautical 
+miles 
+200 or more 143 2 
+75 but less than 200 138 1.5 
+20 but less than 75 130 1 
+Less than 20 120*1 
+115*2
+111*3
+ 
+0.5 
+ 
+NOTE: The range of audibility in the table above is for information and is 
+approximately the range at which a whistle may be heard on its forward axis with 90 
+percent probability in conditions of still air on board a vessel having average 
+background noise level at the listening posts (taken to be 68 dB in the octave band 
+centered on 250 Hz and 63 dB in the octave band centered on 500 Hz). In practice 
+the range at which a whistle may be heard is extremely variable and depends 
+critically on weather conditions; the values given can be regarded as typical but 
+under conditions of strong wind or high ambient noise level at the listening post the 
+range may be much reduced. 
+ 
+*1 When the measured frequencies lie within the range 180-450Hz 
+*2 When the measured frequencies lie within the range 450-800Hz 
+*3 When the measured frequencies lie within the range 800-2100Hz 
+ 154 
+—INLAND— 
+ANNEX III—Continued 
+ 
+§ 86.05 Sound signal intensity and range of audibility 
+A whistle on a vessel shall provide, in the direction of the forward axis of the 
+whistle and at a distance of 1 meter from it, a sound pressure level in at 
+least one 1/3-octave band of not less than the appropriate figure given in 
+Table 86.05 within the following frequency ranges ( ± 1 percent): 
+(a) 130-1200 Hz, for a vessel 75 meters or more in length; 
+(b) 250-1600 Hz, for a vessel 20 meters but less than 75 meters in length; 
+(c) 250-2100 Hz, for a vessel 12 meters but less than 20 meters in length. 
+ 
+Table 86.05 
+ 
+Length of vessel in 
+meters 
+Fundamental 
+frequency 
+range (Hz) 
+For 
+measured 
+frequencies 
+(Hz) 
+1/3 octave band 
+level at 1 meter in 
+dB referred to 2x10-
+5 N/m2
+Audibility 
+range in 
+nautical 
+miles 
+ 
+200 or more 
+ 
+ 
+70-200 
+ 
+130-180 
+180-250 
+250-1200 
+145 
+143 
+140 
+ 
+2 
+ 
+75 but less than 200 
+ 
+130-350 
+130-180 
+180-250 
+250-1200 
+140 
+138 
+134 
+ 
+1.5 
+20 but less than 75 
+ 
+250-525 
+250-450 
+450-800 
+800-1600 
+130 
+125 
+121 
+ 
+1.0 
+ 
+ 
+12 but less than 20 
+ 
+250-525 
+250-450 
+450-800 
+800-2100 
+120 
+115 
+111 
+ 
+0.5 
+ 
+ 
+NOTE: The range of audibility in the table above is for information and is 
+approximately the range at which a whistle may usually be heard on its forward axis 
+in conditions of still air on board a vessel having average background noise level at 
+the listening posts (taken to be 68 dB in the octave band centered on 250 Hz and 63 
+dB in the octave band centered on 500 Hz).  In practice the range at which a whistle 
+may be heard is extremely variable and depends critically on weather conditions; the 
+values given can be regarded as typical but under conditions of strong wind or high 
+ambient noise level at the listening post the range may be much reduced. 
+ 155 
+—INTERNATIONAL— 
+ANNEX III—Continued 
+ 
+(d) Direc tional properties 
+The sound pressure level of a directional whistle shall be not more than 4 
+dB below the prescribed sound pressure level on the axis at any direction in 
+the horizontal plane within ± 45 degrees of the axis.  The sound pressure 
+level at any other direction in the horizontal plane shall be not more than 10 
+dB below the prescribed sound pressure level on the axis, so that the range 
+in any direction will be at least half the range on the forward axis. The sound 
+pressure level shall be measured in that one-third octave band which 
+determines the audibility range. 
+ 
+(e) Positioning of whistles 
+When a directional whistle is to be used as the only whistle on a vessel, 
+it shall be installed with its maximum intensity directed straight ahead. 
+A whistle shall be placed as high as practicable on a vessel, in order to 
+reduce interception of the emitted sound by obstructions and also to 
+minimize hearing damage risk to personnel. The sound pressure level of the 
+vessel’s own signal at listening posts shall not exceed 110 dB(A) and so far 
+as practicable should not exceed 100 dB(A). 
+ 156 
+—INLAND— 
+ANNEX III—Continued 
+ 
+§ 86.07 Directional properties 
+The sound pressure level of a directional whistle shall be not more than 4 
+dB below the sound pressure level specified in § 86.05 in any direction in 
+the horizontal plane within + 45 degrees of the forward axis. The sound 
+pressure level of the whistle in any other direction in the horizontal plane 
+shall not be more than 10 dB less than the sound pressure level specified 
+for the forward axis, so that the range of audibility in any direction will be at 
+least half the range required on the forward axis. The sound pressure level 
+shall be measured in that one-third octave band which determines the 
+audibility range. 
+ 
+§ 86.09 Positioning of whistles 
+(a) When a directional whistle is to be used as the only whistle on the 
+vessel and is permanently installed, it shall be installed with its forward 
+axis directed forward. 
+(b) A whistle shall be placed as high as practicable on a vessel, in order to 
+reduce interception of the emitted sound by obstructions and also to 
+minimize hearing damage risk to personnel. The sound pressure level of 
+the vessel’s own signal at listening posts shall not exceed 110 dB(A) 
+and so far as practicable should not exceed 100 dB(A). 
+ 157 
+—INTERNATIONAL— 
+ANNEX III—Continued 
+ 
+(f) Fitting of more than one whistle 
+If whistles are fitted at a distance apart of more than 100 meters, it shall 
+be so arranged that they are not sounded simultaneously. 
+ 
+(g) Combined whistle systems 
+If due to the presence of obstructions the sound field of a single whistle 
+or of one of the whistles referred to in paragraph 1(f) above is likely to have 
+a zone of greatly reduced signal level, it is recommended that a combined 
+whistle system be fitted so as to overcome this reduction. For the purposes 
+of the Rules a combined whistle system is to be regarded as a single 
+whistle. The whistles of a combined system shall be located at a distance 
+apart of not more than 100 meters and arranged to be sounded 
+simultaneously. The frequency of any one whistle shall differ from those of 
+the others by at least 10 Hz. 
+ 158 
+—INLAND— 
+ANNEX III—Continued 
+ 
+§ 86.11 Fitting of more than one whistle 
+If whistles are fitted at a distance apart of more than 100 meters, they shall 
+not be sounded simultaneously. 
+ 
+§ 86.13 Combined whistle systems 
+(a) A combined whistle system is a number of whistles (sound emitting 
+sources) operated together. For the purposes of the Rules a combined 
+whistle system is to be regarded as a single whistle.  (b) The whistles of 
+a combined system shall: 
+(1) Be located at a distance apart of not more than 100 meters,  
+(2) Be sounded simultaneously,  
+(3) Each have a fundamental frequency different from those of the 
+others by at least 10 Hz, and  
+(4) Have a tonal characteristic appropriate for the length of vessel 
+which shall be evidenced by at least two-thirds of the whistles in the 
+combined system having fundamental frequencies falling within the 
+limits prescribed in § 86.03, or if there are only two whistles in the 
+combined system, by the higher fundamental frequency falling 
+within the limits prescribed § 86.03. 
+ 
+NOTE: If due to the presence of obstructions the sound field of a single whistle or of 
+one of the whistles referred to in §86.11 is likely to have a zone of greatly reduced 
+signal level a combined whistle system should be fitted so as to overcome this 
+reduction. 
+ 159 
+—INTERNATIONAL— 
+ANNEX III—Continued 
+ 
+2. Bell or gong 
+(a) Intensity of signal 
+A bell or gong, or other device having similar sound characteristics shall 
+produce a sound pressure level of not less than 110 dB at a distance of 1 
+meter from it. 
+ 
+(b) Cons truction 
+Bells and gongs shall be made of corrosion-resistant material and 
+designed to give a clear tone. The diameter of the mouth of the bell shall be 
+not less than 300 mm for vessels of 20 meters or more in length. Where 
+practicable, a power-driven bell striker is recommended to ensure constant 
+force but manual operation shall be possible. The mass of the striker shall 
+be not less than 3 percent of the mass of the bell. 
+ 
+3. Approval 
+The construction of sound signal appliances, their performance and their 
+installation on board the vessel shall be to the satisfaction of the appropriate 
+authority of the State whose flag the vessel is entitled to fly. 
+ 160 
+—INLAND— 
+ANNEX III—Continued 
+ 
+§ 86.15 Towing vessel whistles 
+A power-driven vessel normally engaged in pushing ahead or towing 
+alongside may, at all times, use a whistle whose characteristic falls within 
+the limits prescribed by § 86.03 for the longest customary composite length 
+of the vessel and its tow. 
+ 
+Subpart B— Bell or gong 
+§ 86.21 Intensity of signal 
+A bell or gong, or other device having similar sound characteristics shall 
+produce a sound pressure level of not less than 110 dB at 1 meter. 
+ 
+§ 86.23 Construction 
+Bells and gongs shall be made of corrosion-resistant material and designed 
+to give a clear tone. The diameter of the mouth of the bell shall be not less 
+than 300 mm for vessels of more than 20 meters in length, and shall be not 
+less than 200 mm for vessels of 12 to 20 meters in length. The mass of the 
+striker shall be not less than 3 percent of the mass of the bell. The striker 
+shall be capable of manual operation. 
+ 
+NOTE: When practicable, a power-driven bell striker is recommended to ensure 
+constant force. 
+ 
+Subpart C— Approval 
+§ 86.31 Approval [Reserved] 
+ 161 
+—INTERNATIONAL— 
+ 
+ANNEX IV - 
+Distress Signals 
+ 
+1. The following signals, used or exhibited either together or separately, 
+indicate distress and need of assistance: 
+(a) a gun or other explosive signal fired at intervals of about a minute; 
+(b) a continuous sounding with any fog-signaling  apparatus; 
+(c) rockets or shells, throwing red stars fired one at a time at short 
+intervals; 
+(d) a signal made by radiotelegraphy or by any other signaling  method 
+consisting of the group . . .– – –. . . (SOS) in the Morse Code; 
+(e) a signal sent by radiotelephony consisting of the spoken word 
+“Mayday”; 
+(f) the International Code Signal of distress indicated by N.C.; 
+(g) a signal consisting of a square flag having above or below it a ball 
+or anything resembling a ball; 
+(h) flames on the vessel (as from a burning tar barrel, oil barrel, etc.); 
+(i) a rocket parachute flare or a hand flare showing a red light; 
+(j) a smoke signal giving off orange-colored smoke; 
+(k) slowly and repeatedly raising and lowering arms outstretched to 
+each side; 
+(l) the radiotelegraph alarm signal; 
+(m) the radiotelephone alarm signal; 
+(n) signals transmitted by emergency position-indicating radio beacons; 
+(o) approved signals transmitted by radiocommunication systems, 
+including survival craft radar transponders. 
+ 162 
+—INLAND—

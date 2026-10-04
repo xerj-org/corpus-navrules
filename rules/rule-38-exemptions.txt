@@ -1,0 +1,124 @@
+# Navigation Rules Rule 38 — Exemptions
+# Source: COMDTINST M16672.2D, Navigation Rules: International-Inland (USCG Navigation Center distribution, https://www.navcen.uscg.gov/pdf/navRules/NavRules.pdf)
+
+RULE 38 
+Exemptions 
+Any vessel (or class of vessels) provided that she complies with the 
+requirements of the International Regulations for Preventing Collisions at 
+Sea, 1960, the keel of which is laid or which is at a corresponding stage of 
+construction before the entry into force of these Regulations may be 
+exempted from compliance therewith as follows: 
+(a) The installation of lights with ranges prescribed in Rule 22, until four 
+years after the date of entry into force of these Regulations.   
+(b) The installation of lights with color specifications as prescribed in 
+Section 7 of Annex I to these Regulations, until four years after the date of 
+entry into force of these Regulations. 
+(c) The repositioning of lights as a result of conversion from Imperial to 
+metric units and rounding off measurement figures, permanent exemption. 
+ 128 
+—INLAND— 
+Exemptions 
+ 
+PART E—EXEMPTIONS 
+ 
+RULE 38 
+Exemptions 
+Any vessel or class of vessels, the keel of which is laid or which is at a 
+corresponding stage of construction before December 24, 1980, provided 
+that she complies with the requirements of— 
+(a) The Act of June 7, 1897 (30 Stat. 96), as amended (33 U.S.C. 154-
+232) for vessels navigating the waters subject to that statute; 
+(b) Section 4233 of the Revised Statutes (33 U.S.C. 301-356) for vessels 
+navigating the waters subject to that statute; 
+(c) The Act of February 8, 1895 (28 Stat. 645), as amended (33 U.S.C. 
+241-295) for vessels navigating the waters subject to that statute; or 
+(d) Sections 3, 4, and 5 of the Act of April 25, 1940 (54 Stat. 163), as 
+amended (46 U.S.C. 526 b, c, and d) for motorboats navigating the waters 
+subject to that statute; shall be exempted from compliance with the technical 
+Annexes to these Rules as follows: 
+(i) the installation of lights with ranges prescribed in Rule 22, until 4 
+years after the effective date of these Rules, except that vessels of less 
+than 20 meters in length are permanently exempt; 
+(ii) the installation of lights with color specifications as prescribed in 
+Annex I to these Rules, until 4 years after the effective date of these 
+Rules, except that vessels of less than 20 meters in length are 
+permanently exempt; 
+(iii) the repositioning of lights as a result of conversion to metric units 
+and rounding off measurement figures, are permanently exempt; and 
+ 129 
+—INTERNATIONAL— 
+Exemptions 
+ 
+RULE 38— CONTINUED 
+ 
+(d)   
+(i) The repositioning of masthead lights on vessels of less than 150 
+meters in length, resulting from the prescriptions of Section 3(a) of 
+Annex I to these Regulations, permanent exemption.   
+(ii) The repositioning of masthead lights on vessels of 150 meters or 
+more in length, resulting from the prescriptions of Section 3(a) of Annex 
+I to these Regulations, until 9 years after the date of entry into force of 
+these Regulations. 
+(e) The repositioning of masthead lights resulting from the prescriptions of 
+Section 2(b) of Annex I to these Regulations, until 9 years after the date of 
+entry into force of these Regulations. 
+(f) The repositioning of sidelights resulting from the prescriptions of 
+(g) Sections 2(g) and 3(b) of Annex I to these Regulations, until 9 years 
+after the date of entry into force of these Regulations. 
+(h) The requirements for sound signal appliances prescribed in Annex lIl to 
+these Regulations, until 9 years after the date of entry into force of these 
+Regulations. 
+(i) The repositioning of all-round lights resulting from the prescription of 
+Section 9(b) of Annex I to these Regulations, permanent exemption. 
+ 130 
+—INLAND— 
+Exemptions 
+ 
+RULE 38— CONTINUED 
+ 
+(d) (continued) 
+(iv) the horizontal repositioning of masthead lights prescribed by Annex 
+I to these Rules: 
+(1) on vessels of less than 150 meters in length, permanent 
+exemption. 
+(2) on vessels of 150 meters or more in length, until 9 years after 
+the effective date of these Rules. 
+(v) the restructuring or repositioning of all lights to meet the 
+prescriptions of Annex I to these Rules, until 9 years after the effective 
+date of these Rules;  
+(vi) power-driven vessels of 12 meters or more but less than 20 meters 
+in length are permanently exempt from the provisions of Rule 23(a)(i) 
+and 23(a)(iv) provided that, in place of these lights, the vessel exhibits 
+a white light aft visible all round the horizon; and 
+(vii) the requirements for sound signal appliances prescribed in Annex 
+lIl to these Rules, until 9 years after the effective date of these Rules. 
+ 131 
+—INTERNATIONAL— 
+ 
+ANNEX I - 
+Positioning and Technical Details of Lights and Shapes 
+1. Definition 
+The term “height above the hull” means height above the uppermost 
+continuous deck. This height shall be measured from the position vertically 
+beneath the location of the light. 
+ 
+2. Vertical positioning and spacing of lights 
+(a) On a power-driven vessel of 20 meters or more in length the masthead 
+lights shall be placed as follows: 
+(i) the forward masthead light, or if only one masthead light is carried, 
+then that light, at a height above the hull of not less than 6 meters, 
+and, if the breadth of the vessel exceeds 6 meters, then at a height 
+above the hull not less than such breadth, so however that the light 
+need not be placed at a greater height above the hull than 12 
+meters; 
+(ii) when two masthead lights are carried the after one shall be at least 
+4.5 meters vertically higher than the forward one. 
+(b) The vertical separation of masthead lights of power-driven vessels shall 
+be such that in all normal conditions of trim the after light will be seen 
+over and separate from the forward light at a distance of 1000 meters 
+from the stem when viewed from sea level. 
+(c) The masthead light of a power-driven vessel of 12 meters but less than 
+20 meters in length shall be placed at a height above the gunwale of not 
+less than 2.5 meters. 
+ 132 
+—INLAND—

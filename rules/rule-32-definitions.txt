@@ -1,0 +1,11 @@
+# Navigation Rules Rule 32 — Definitions
+# Source: COMDTINST M16672.2D, Navigation Rules: International-Inland (USCG Navigation Center distribution, https://www.navcen.uscg.gov/pdf/navRules/NavRules.pdf)
+
+RULE 32 
+Definitions 
+(a) The word “whistle” means any sound signaling  appliance capable of 
+producing the prescribed blasts and which complies with the specifications 
+in Annex Ill to these Regulations. 
+(b) The term “short blast” means a blast of about one second’s duration. 
+(c) The term “prolonged blast” means a blast of from four to six seconds’ 
+duration.

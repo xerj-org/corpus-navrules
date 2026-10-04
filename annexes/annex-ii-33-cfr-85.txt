@@ -1,0 +1,60 @@
+# Navigation Rules Annex Ii — 33 CFR 85
+# Source: COMDTINST M16672.2D, Navigation Rules: International-Inland (USCG Navigation Center distribution, https://www.navcen.uscg.gov/pdf/navRules/NavRules.pdf)
+
+ANNEX II 
+33 CFR 85 
+Additional Signals for Fishing Vessels 
+Fishing in Close Proximity 
+§85.1. General 
+The lights mentioned herein shall, if exhibited in pursuance of Rule 26(d), be 
+placed where they can best be seen. They shall be at least 0.9 meter apart 
+but at a lower level than lights prescribed in Rule 26(b)(i) and (c)(i) 
+contained in the Inland Navigational Rules Act of 1980. The lights shall be 
+visible all around the horizon at a distance of at least 1 mile but at a lesser 
+distance from the lights prescribed by these Rules for fishing vessels. 
+ 
+§ 85.3 Signals for trawlers 
+(a) Vessels when engaged in trawling, whether using demersal or pelagic 
+gear, may exhibit: 
+(1) When shooting their nets: two white lights in a vertical line; 
+(2) When hauling their nets: one white light over one red light in a 
+vertical line; 
+(3) When the net has come fast upon an obstruction: two red lights in a 
+vertical line. 
+(b) Each vessel engaged in pair trawling may exhibit: 
+(1) By night, a searchlight directed forward and in the direction of the 
+other vessel of the pair; 
+(2) When shooting or hauling their nets or when their nets have come 
+fast upon an obstruction, the lights prescribed in paragraph (a) of 
+this section. 
+ 
+§ 85.5 Signals for purse seiners 
+Vessels engaged in fishing with purse seine gear may exhibit two yellow 
+lights in a vertical line. These lights shall flash alternately every second and 
+with equal light and occultation duration. These lights may be exhibited only 
+when the vessel is hampered by its fishing gear. 
+ 151 
+—INTERNATIONAL— 
+ 
+ANNEX III - 
+Technical Details of Sound Signal Appliances 
+ 
+1. Whistles 
+(a) Frequencies and range of audibility 
+The fundamental frequency of the signal shall lie within the range 70-700 
+Hz. The range of audibility of the signal from a whistle shall be determined 
+by those frequencies, which may include the fundamental and/or one or 
+more higher frequencies, which lie within the range 180-700 Hz (+/- 1%) for 
+a vessel of 20 meters or more in length, or 180-2100Hz (+/- 1%) for a vessel 
+of less than 20 meters in length and which provide the sound pressure 
+levels specified in paragraph 1(c) below. 
+ 
+(b) Limits of fundamental frequencies 
+To ensure a wide variety of whistle characteristics, the fundamental 
+frequency of a whistle shall be between the following limits: 
+(i) 70-200 Hz, for a vessel 200 meters or more in length; 
+(ii) 130-350 Hz, for a vessel 75 meters but less than 200 meters in 
+length; 
+(iii) 250-700 Hz, for a vessel less than 75 meters in length. 
+ 152 
+—INLAND—
